@@ -43,7 +43,7 @@ In this challenge, I have to complete the analysis of what sorts of people were 
 - Cleaning Data
 
 ## Data Analysis
-Supervised Machine learning Techniques: DecisionTree Classification which give me to get 79.5% accuracy score and to rank under 4100 in this Kaggle competition. 
+**Supervised Machine learning Techniques:** - ``DecisionTree Classification``` which give me to get 79.5% accuracy score and to rank under 4100 in this Kaggle competition. 
 
 
 **Competition Website**: [kaggle](http://www.kaggle.com/c/titanic-gettingStarted)
