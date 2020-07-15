@@ -30,7 +30,6 @@ In this challenge, I have to complete the analysis of what sorts of people were 
 - ```Python3```
 - ```Numpy```
 - ```Pandas```
-- ```Matplotlib```
 - ```Supervised Learning```
 - ```Machine Learning Algorithm```
 - ```Classification Algorithms```
